@@ -4,7 +4,7 @@
 
 ### Carmen Irene Cabrera Rodríguez C412
 ### Enrique Martínez González C412
-### Osmany Pérez Rodríguz C412
+### Osmany Pérez Rodríguez C412
 
 Para ejecutar el proyecto debe situarse en el directorio de este y ejecutar
 
