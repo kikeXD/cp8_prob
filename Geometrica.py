@@ -5,7 +5,7 @@ import math
 from Uniforme01 import *
 
 def Geometrica(p):
-    return (math.log(Uniforme01())/math.log(1 - p)) + 1
+    return int((math.log(Uniforme01())/math.log(1 - p))) + 1
 
 def GeometricaDensity(x, p):
     return p * math.pow((1 - p), x - 1)
